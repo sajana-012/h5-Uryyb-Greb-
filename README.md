@@ -14,11 +14,11 @@ I installed KeePassXC, which is free and open source. I made a new database with
 
 d) Encrypt and decrypt with PGP
 
-I made a PGP key pair: one private key I keep secret and one public key I can share. I shared my public key with a friend and also imported my friend’s key. I encrypted a message for my friend and could also decrypt the message they sent me. I also signed a message so the other person knows it was really me.
+I made a PGP key pair, one private key I keep secret and one public key I can share. I shared my public key with a friend and also imported my friend’s key. I encrypted a message for my friend and could also decrypt the message they sent me. I also signed a message so the other person knows it was really me.
 
 m) Another tool
 
-I also tried another encryption tool called age. It was simple: I made a key, encrypted a file, and decrypted it back. It works for files, but it doesn’t have as many features as PGP.
+I also tried another encryption tool called age. It was simple. I made a key, encrypted a file, and decrypted it back. It works for files, but it doesn’t have as many features as PGP.
 
 n) Encrypted email
 
