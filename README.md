@@ -4,14 +4,16 @@ a) Install SSH
 
 I installed the SSH server on my computer and started it.
 
-<img width="555" height="374" alt="Screenshot 2025-09-28 103952" src="https://github.com/user-attachments/assets/7ae0dcdd-c3dc-41ff-81d2-139dd680fbb6" />
+<img width="1280" height="800" alt="VirtualBox_info_28_09_2025_11_15_12" src="https://github.com/user-attachments/assets/cc0476eb-c3c9-43b6-b9a3-d054b6406cb1" />
+
 
 
 b) SSH with keys
 
 I created an SSH key pair and sent the public part to the server
 
-<img width="556" height="374" alt="Screenshot 2025-09-28 103920" src="https://github.com/user-attachments/assets/16aab490-4a17-4828-803e-165432b5a11c" />
+<img width="1280" height="800" alt="VirtualBox_info_28_09_2025_11_16_11" src="https://github.com/user-attachments/assets/9cad8f64-8af1-489a-8e21-c355f92b3974" />
+
 
 
 c) Password manager
@@ -22,7 +24,8 @@ d) Encrypt and decrypt with PGP
 
 I import other key and try to encrypt the message but it doesnot work.
 
-<img width="556" height="374" alt="Screenshot 2025-09-28 103821" src="https://github.com/user-attachments/assets/454a01ca-a8fd-444b-b698-3c4454b1ad16" />
+<img width="1280" height="800" alt="VirtualBox_info_28_09_2025_11_16_24" src="https://github.com/user-attachments/assets/3ac8635d-a243-467c-8c8b-bcd4c6ca0fee" />
+
 
 
 
